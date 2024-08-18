@@ -26,7 +26,10 @@ $ python mail_preprocessing.py
 <img src="dashboard.png" alt="logo" height="auto" />
 
 ## Medium Article...
-For an in-depth explanantion of the project, head on over to: 
+For an in-depth explanantion of the project, head on over to my medium: 
+
+[Part 1: Explaining the scraping and pre-processing process](https://anushavc.medium.com/emails-that-matter-insights-from-uiuc-mail-archives-using-sas-viya-part-1-78ae5a26623f) <br></br>
+[Part 2: Explaining the Text analytics pipeline and dashboard](https://anushavc.medium.com/emails-that-matter-insights-from-uiuc-mail-archives-using-sas-viya-part-2-71be5adee4c5)
 
 ## You may also like...
 
