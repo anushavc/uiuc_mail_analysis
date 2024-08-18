@@ -21,6 +21,10 @@ $ python massmail_scraper.py
 # Run the mail_preprocessing.py for processing the scraped mail records
 $ python mail_preprocessing.py
 ```
+## SAS Visual Analytics Dashboard 
+
+<img src="dashboard.png" alt="logo" height="auto" />
+
 ## Medium Article...
 For an in-depth explanantion of the project, head on over to: 
 
